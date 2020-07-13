@@ -1,0 +1,10 @@
+.login-form {
+  max-width: 500px;
+  margin: 50px auto;
+}
+
+.c-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
